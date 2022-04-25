@@ -8,6 +8,6 @@ modules = ["core.py"]
 
 doc_url = "https://MatasJu.github.io/tgki/"
 
-git_url = "https://github.com/MatasJu/tgki/tree/{branch}/"
+git_url = "https://github.com/MatasJu/tgki/tree/master/"
 
 def custom_doc_links(name): return None
