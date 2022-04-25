@@ -1,7 +1,7 @@
-repository: {user}/{lib_name}
+repository: MatasJu/tgki
 output: web
-topnav_title: {lib_name}
-site_title: {lib_name}
+topnav_title: tgki
+site_title: tgki
 company_name: MIT
 description: A description of your project
 # Set to false to disable KaTeX math
@@ -20,8 +20,6 @@ exclude:
   - .idea/
   - .gitignore
   - vendor
- 
-exclude: [vendor]
 
 highlighter: rouge
 markdown: kramdown
